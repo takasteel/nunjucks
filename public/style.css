@@ -1,0 +1,8 @@
+header, section, main{
+  text-align: center;
+}
+
+.users {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
